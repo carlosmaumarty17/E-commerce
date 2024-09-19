@@ -43,3 +43,6 @@ Aplicación movil que se conecta a la misma api de la tienda.
 
 App ionic repo [App Android](http://opensource.org/licenses/MIT).
 Video tuturial [Ionic APP](http://opensource.org/licenses/MIT).
+
+![image](https://github.com/user-attachments/assets/5ccc97e6-63d1-4f65-ac65-75ef392cc92c)
+
