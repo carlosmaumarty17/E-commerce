@@ -1,17 +1,59 @@
-¡El momento ha llegado! 🚀
-Hoy libero el código fuente de Active Super Shop e-commerce, una potente plataforma de código abierto en PHP, ideal para quienes desean vender en línea de forma profesional y sin limitaciones.
-🛍️ ¿Qué puedes vender?
-Desde productos físicos hasta productos digitales y servicios. Incluso puedes permitir que otros usuarios se registren y vendan en tu tienda. ¡Una solución todo en uno para emprendedores y desarrolladores!
-👀 ¿Qué incluye la plataforma?
-✨ Interfaz moderna para clientes
-🛒 Visualización de productos clara y atractiva
-📊 Dashboard completo para el administrador
-➕ Agregar productos al carrito o cesta fácilmente
-💳 Múltiples métodos de pago integrados
-💡 Active Super Shop no tiene nada que envidiar a las grandes plataformas del mercado. Es flexible, potente y lista para adaptarse a tus necesidades.
-🔓 ¡Código abierto, personalizable y gratuito!
-Prepárate para descubrir todas sus funciones y llevar tu tienda online al siguiente nivel.
-🔗  https://anthoncode.com/plataforma-seven-e-commerce-de.../
+# 🛍️ Active Super Shop – Plataforma E-commerce en PHP
+
+🚀 **¡El momento ha llegado!**  
+Hoy libero el código fuente de **Active Super Shop**, una potente y flexible plataforma de **e-commerce open source** desarrollada en PHP. Ideal para emprendedores, pequeñas empresas y desarrolladores que buscan vender en línea de manera profesional y sin restricciones.
+
+🔗 [Descubre la plataforma aquí](https://anthoncode.com/plataforma-seven-e-commerce-de...)
+
+---
+
+## 🛒 ¿Qué Puedes Vender?
+
+- Productos físicos
+- Productos digitales
+- Servicios personalizados
+- 🧑‍💼 Incluso puedes habilitar el registro de vendedores y convertir tu tienda en un **marketplace multivendedor**
+
+---
+
+## ✨ Características Principales
+
+- 🔥 **Interfaz moderna y atractiva para los clientes**
+- 🛒 Visualización clara de productos y categorías
+- ➕ Sistema de carrito/cesta funcional e intuitivo
+- 📊 **Dashboard administrativo completo** para control de ventas, inventario y clientes
+- 💳 Integración con múltiples métodos de pago
+- 🌐 Diseño responsivo: compatible con móviles, tablets y escritorio
+- 🔧 Totalmente **personalizable** para adaptarse a cualquier necesidad
+
+---
+
+## 💡 ¿Por Qué Elegir Active Super Shop?
+
+- ✅ Código abierto (Open Source)
+- ✅ Gratuito y sin limitaciones
+- ✅ Escalable y personalizable
+- ✅ Ideal tanto para proyectos personales como comerciales
+
+Active Super Shop **no tiene nada que envidiarle a grandes plataformas** como Shopify, WooCommerce o PrestaShop. Con la ventaja de ser 100% tuyo.
+
+---
+
+## 🚧 Requisitos Técnicos
+
+- PHP 7.4 o superior
+- MySQL / MariaDB
+- Servidor web (Apache, Nginx)
+- Composer (opcional para gestión de dependencias)
+
+---
+
+## 📦 Instalación
+
+1. Clona el repositorio  
+   ```bash
+   git clone https://github.com/carlosmaumarty17
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank">
