@@ -1,3 +1,19 @@
+¡El momento ha llegado! 🚀
+Hoy libero el código fuente de Active Super Shop e-commerce, una potente plataforma de código abierto en PHP, ideal para quienes desean vender en línea de forma profesional y sin limitaciones.
+🛍️ ¿Qué puedes vender?
+Desde productos físicos hasta productos digitales y servicios. Incluso puedes permitir que otros usuarios se registren y vendan en tu tienda. ¡Una solución todo en uno para emprendedores y desarrolladores!
+👀 ¿Qué incluye la plataforma?
+✨ Interfaz moderna para clientes
+🛒 Visualización de productos clara y atractiva
+📊 Dashboard completo para el administrador
+➕ Agregar productos al carrito o cesta fácilmente
+💳 Múltiples métodos de pago integrados
+💡 Active Super Shop no tiene nada que envidiar a las grandes plataformas del mercado. Es flexible, potente y lista para adaptarse a tus necesidades.
+🔓 ¡Código abierto, personalizable y gratuito!
+Prepárate para descubrir todas sus funciones y llevar tu tienda online al siguiente nivel.
+🔗  https://anthoncode.com/plataforma-seven-e-commerce-de.../
+
+
 <p align="center"><a href="https://laravel.com" target="_blank">
 <img width="150"src="https://www.heavydeveloper.me/front/images/site/mano.png"></a>
 </p>
